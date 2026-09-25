@@ -1,7 +1,10 @@
-[README.md](https://github.com/user-attachments/files/32639671/README.md)
 # AI Agent Design and Evaluation
 
 This README documents the design and ethical evaluation of an AI agent for Project Exercise 2-1. It explains the agent's purpose, how it works, and how it measures up against principles of fair, transparent, inclusive, and socially aware AI.
+
+Student Name: Hans Alin
+
+Date: 9/25/2026
 
 ---
 
